@@ -1,2 +1,5 @@
 # Knuth
-Basic algorithms and data structures library implemented in modern C++.
+An algorithms and data structures library written in C++20.
+
+## Project Structure
+
